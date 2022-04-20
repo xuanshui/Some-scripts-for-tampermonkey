@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         禁闭
+// @name         关闭娱乐网站
 // @namespace    https://github.com/AngelCavalier/Front-end-foundation/blob/master/%E7%AA%97%E5%8F%A3%E5%85%B3%E9%97%AD.js
 // @version      0.1
 // @description  用于强制关闭想娱乐的网站，诸如虎牙、斗鱼、B站等。
